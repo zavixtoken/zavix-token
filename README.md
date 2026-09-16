@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Zavix-logo.png" alt="Zavix Logo" width="180">
+</p>
+
 # Zavix (ZVX)
 
 Official repository for Zavix (ZVX), a BEP-20 token on BNB Smart Chain.
